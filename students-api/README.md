@@ -1,6 +1,6 @@
 
 
-#### Students records CRUD API. CRUD means Create, Read, Update, and Delete. Our API will have the following endpoints:
+### Students records CRUD API. CRUD means Create, Read, Update, and Delete. Our API will have the following endpoints:
 
 - GET /api/students will return all students and will be accepting GET requests.
 
